@@ -7,7 +7,7 @@ public class Type1 {
 		// int : 숫자 (정수)
 		// double : 소수점 있는 숫자 (실수)
 		// String : 글자 (문자열)
-		// char : 한글자 (문자)
+		// char : 한글자 (문자) 
 		// boolean : 참거짓 (불린)
 		
 		// 변수를 만들 때 글자를 저장하는 공간을 만들고 싶다

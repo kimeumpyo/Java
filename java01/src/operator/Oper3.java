@@ -21,7 +21,7 @@ public class Oper3 {
 		// != : 다르다 (수학의 ≠)
 		
 		참거짓 = 2 == 2;			//  true
-		System.out.println("2 == 2 "+참거짓);
+		System.out.println("2 == 2 "+참거짓); 
 		참거짓 = 2 != 2;			// false
 		System.out.println("2 != 2 "+참거짓);
 	}

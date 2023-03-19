@@ -17,6 +17,6 @@ public class Oper4 {
 		result = x == y;
 		System.out.println("x(20) == y(10) = " + result);
 		result = x != y;
-		System.out.println("x(20) != y(10) = " + result);	
+		System.out.println("x(20) != y(10) = " + result);	 
 	}
 }	

@@ -14,7 +14,7 @@ public class Var2 {
 		System.out.println("반갑숩니다");
 		System.out.println();
 		System.out.println(var1+"를 공부합니다.");
-		System.out.println(var1);
+		System.out.println(var1);   
 		
 		System.out.println(34-2);
 		// 개발자가 32를 의도한건지, 34-2(글자) 그 자체를 의도한건지 컴퓨터는 알 수가 없음

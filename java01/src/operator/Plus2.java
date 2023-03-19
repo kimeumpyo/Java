@@ -12,7 +12,7 @@ public class Plus2 {
 		System.out.println(숫자1 + 숫자2);
 		
 		// 빼기
-		System.out.println(숫자1 - 숫자2);
+		System.out.println(숫자1 - 숫자2); 
 		
 		// 곱하기
 		System.out.println(숫자1 * 숫자2);

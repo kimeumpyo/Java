@@ -13,7 +13,7 @@ public class Plus1 {
 		String 글자3 = 글자1 + 글자2;
 		
 		System.out.println(글자3);
-		System.out.println("Hello"+"World");
+		System.out.println("Hello"+"World"); 
 		System.out.println("HelloWorld");
 		System.out.println(글자1 + 글자2);
 		

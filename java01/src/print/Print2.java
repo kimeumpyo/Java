@@ -11,5 +11,5 @@ public class Print2 {
 		System.out.print("안녕하세요");		// ln 을 지우면 줄바꿈을 안함
 		System.out.println("반갑습니다");
 		System.out.println("");
-	}
+	} 
 }

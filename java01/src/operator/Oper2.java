@@ -15,6 +15,6 @@ public class Oper2 {
 		
 		// double을 추가해주거나 나누는 숫자에 소수점을 넣어준다
 		System.out.println("평균:"+((double)합계/3.0)+"점"); 
-		System.out.printf("평균:%.2f점",합계/3.0);
+		System.out.printf("평균:%.2f점",합계/3.0); 
 	}
 }

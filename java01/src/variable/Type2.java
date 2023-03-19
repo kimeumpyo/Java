@@ -11,7 +11,7 @@ public class Type2 {
 		 키 : 000.00cm
 		 */
 		String name = "홍길동";
-		int birth = 2023;
+		int birth = 2023; 
 		double height = 169.70;
 		
 		System.out.println("이름: "+name);

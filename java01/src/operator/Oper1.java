@@ -19,6 +19,6 @@ public class Oper1 {
 		System.out.println(3/2);		// 1.5(x), 1(o)
 		
 		System.out.println(3/2.0);		// 소수점있는숫자로 계산해야 소수점있는숫자로 나온다
-			
+			 
 	}
 }
