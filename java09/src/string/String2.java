@@ -48,7 +48,7 @@ class MyClass9{
 			type = "";
 		}
 		
-		result = type + " " + name + " " + price+"원";
+		result = type + ", " + name + ", " + price+"원";
 		
 		
 		
