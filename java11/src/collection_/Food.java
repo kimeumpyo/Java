@@ -76,6 +76,7 @@ class FoodList {
 	public void delFood(String str) {
 		int number = name.indexOf(str);
 		name.remove(number);
+		price.remove(number);
 	}
 
 	public void showAll() {
